@@ -1,3 +1,5 @@
 interface Dimensionable {
-    var name
+    fun printDimensions(){
+
+    }
 }
